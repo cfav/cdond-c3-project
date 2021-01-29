@@ -86,6 +86,7 @@ jobs:
           name: backend scan
           command: |
             cd backend
+            npm audit fix
             npm audit --audit-level=critical
 
 workflows:
