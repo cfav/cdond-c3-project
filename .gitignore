@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 *~
 *.sw[mnpcod]
 *.log
@@ -18,7 +17,6 @@ npm-debug.log*
 .versions/
 coverage/
 dist/
-node_modules/
 tmp/
 temp/
 platforms/
@@ -53,7 +51,6 @@ npm-debug.log*
 .versions/
 coverage/
 www/
-node_modules/
 tmp/
 temp/
 platforms/
@@ -110,7 +107,6 @@ bower_components
 build/Release
 
 # Dependency directories
-node_modules/
 jspm_packages/
 
 # TypeScript v1 declaration files
@@ -174,4 +170,3 @@ dist
 
 # TernJS port file
 .tern-port
->>>>>>> 324664616693e2210858e3fe2465515e2c28c4b2
